@@ -16,5 +16,5 @@ Technologie:
 - React
 - Redux
 - Bootstrap
-  
-[stockwatch.webm](https://github.com/user-attachments/assets/55580ee0-34aa-407f-8be1-93a858c9ae75)
+
+  [STOCKWATCH.webm](https://github.com/user-attachments/assets/e862289c-7a81-43e6-a4a5-b25225b85b95)
